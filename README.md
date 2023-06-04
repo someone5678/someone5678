@@ -1,5 +1,7 @@
 # user_someone5678
 
+Keep trying until it works... :) 💻
+
 Profile for storing and cotributing repositories which mostly based on following topics:
 * [Android](https://www.android.com/)
 * [Android Open Source Project](https://source.android.com/)
