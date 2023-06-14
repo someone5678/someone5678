@@ -1,5 +1,9 @@
 # user_someone5678
+## Reminder
+Following this account makes your "For you" section<br>
+fills with bunch of AOSP commits pushes and force pushes by this account!!! 
 
+## Introduction
 Keep trying until it works... :) 💻
 
 Profile for storing and cotributing repositories which mostly based on following topics:
